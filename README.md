@@ -9,5 +9,5 @@ model  = https://github.com/ramazandmrr/6--different--emotions-on-live-camera/re
 
 <div style="text-align: center;">
 
-<img src="https://github.com/user-attachments/assets/1a9616c2-1f50-4114-b3fe-dc0f5981b9bc" alt="Emotion Recognition" width="300"/>
+<img src="https://github.com/user-attachments/assets/1a9616c2-1f50-4114-b3fe-dc0f5981b9bc" alt="Emotion Recognition" width="500"/>
 </div>
